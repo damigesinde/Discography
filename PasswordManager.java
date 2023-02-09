@@ -2,9 +2,7 @@
 
   Name: Dami Gesinde
   Date: February 2, 2023
-  Purpose of Program: This program was made during my second semester of AP Computer Science A to test my Java proficiency. 
-  Unfortunately, the program does not store the information but only takes the input. 
-  It is planned, like all other programs, to be improved in the future.
+  Purpose of Program: This program was made during my second semester of AP Computer Science A to test my Java proficiency. Unfortunately, the program does not store the information but only takes the input. It is planned, like all other programs, to be improved in the future.
 
 */
 
